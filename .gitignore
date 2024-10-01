@@ -1,0 +1,9 @@
+.env
+
+build/
+
+dist/
+
+main.spec
+
+data.json
